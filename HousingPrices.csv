@@ -1,4 +1,4 @@
-,Address,Zip,Price,Area,Room,Lon,Lat
+id,Address,Zip,Price,Area,Room,Lon,Lat
 1,Blasiusstraat 8 2, Amsterdam,1091 CR,685000,64,3,4.907736,52.356157
 2,Kromme Leimuidenstraat 13 H, Amsterdam,1059 EL,475000,60,3,4.850476,52.348586
 3,Zaaiersweg 11 A, Amsterdam,1097 SM,850000,109,4,4.944774,52.343782
